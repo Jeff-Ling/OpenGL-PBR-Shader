@@ -1,5 +1,5 @@
 # OpenGL PBR Shader
-CIS 561 Project - A Physically-Based Shader 
+A Physically-Based Shader 
 
 ## Point Light
  - Developed an OpenGL shader for simulating realistic lighting interactions in 3D scenes, focusing on the approximation of the Light Transport Integral with point light sources.
